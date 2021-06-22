@@ -1,0 +1,8 @@
+COMB(spc, KC_ENT, KC_U, KC_I)
+COMB(esc, KC_ESC, KC_I, KC_O)
+COMB(ent, KC_SPC, KC_J, KC_K)
+COMB(bspc, KC_BSPC, KC_H, KC_J)
+
+COMB(quote, KC_QUOT, KC_Q, KC_I)
+COMB(doublequote, KC_DQUO, KC_Q, KC_G)
+COMB(tab, KC_TAB, KC_Q, KC_W)

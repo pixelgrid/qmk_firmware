@@ -1,0 +1,7 @@
+#pragma once
+
+#define COMBO_VARIABLE_LEN
+#define COMBO_TERM 50
+#define TAPPING_TERM 170
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
